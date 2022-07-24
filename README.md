@@ -1010,11 +1010,11 @@ plt.show()
 ```
 
 <p align="center">
-  <img src="/assets/Mask_Detection/output_57_0.png">
+  <img src="output_57_0.png">
 </p>
 
 <p align="center">
-  <img src="/assets/Mask_Detection/output_57_1.png">
+  <img src="output_57_1.png">
 </p>
 
 <br>

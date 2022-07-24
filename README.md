@@ -1211,5 +1211,5 @@ cv2.destroyAllWindows()
 <br>
   
 <p align="center">
-  <img src="/assets/Mask_Detection/Result.png">
+  <img src="Result.png">
 </p>
